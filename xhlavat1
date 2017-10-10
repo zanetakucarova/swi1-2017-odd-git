@@ -1,0 +1,4 @@
+Ctyrnohy pes behal po dalnici bez hlavy a bez stekotu.
+
+git diff - vypise co bylo v kterem souboru zmeneno
+git status - vypise ktere soubory byly meneny, pridany, odebrany,... 

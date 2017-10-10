@@ -43,7 +43,7 @@ Main goal is to add a new text file and make small change in README.md
 5.	Durák Martin
 
 
-6.	Hlavatý Lukáš, Bc.
+6.	AceLiver
 
 
 7.	Honek Tomáš, Bc.
