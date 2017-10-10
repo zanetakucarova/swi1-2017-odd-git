@@ -59,7 +59,7 @@ Main goal is to add a new text file and make small change in README.md
 
 
 11.	Kučarová Žaneta, Bc.
-
+xkucarov is greeting all of you :)
 
 12.	Laško Tomáš, Bc.
 
