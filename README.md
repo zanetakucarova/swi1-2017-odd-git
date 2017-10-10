@@ -40,7 +40,7 @@ Main goal is to add a new text file and make small change in README.md
 4.	Dorušková Marie, Bc.
 
 
-5.	Durák Martin
+5.	https://github.com/glmcz
 
 
 6.	Hlavatý Lukáš, Bc.
