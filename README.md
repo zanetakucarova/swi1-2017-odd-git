@@ -67,7 +67,7 @@ Main goal is to add a new text file and make small change in README.md
 13.	Lerch Aleš, Bc.
 
 
-14.	Neckař Dušan, Bc.
+14.	necik11
 
 
 15.	Osuský Peter, Bc.
