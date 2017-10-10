@@ -76,7 +76,7 @@ Main goal is to add a new text file and make small change in README.md
 16.	Pinka Martin
 
 
-17.	Poľakovský Michal, Bc.
+17.	xpolako3
 
 
 18.	Prexta Dávid, Bc.
