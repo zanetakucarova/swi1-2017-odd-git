@@ -58,8 +58,7 @@ Main goal is to add a new text file and make small change in README.md
 10.	Kubišta Jakub, Bc.
 
 
-11.	Kučarová Žaneta, Bc.
-
+11.	xkucarov
 
 12.	Laško Tomáš, Bc.
 
