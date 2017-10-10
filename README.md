@@ -46,7 +46,7 @@ Main goal is to add a new text file and make small change in README.md
 6.	Hlavatý Lukáš, Bc.
 
 
-7.	Honek Tomáš, Bc.
+7.	xhonek3
 
 
 8.	Jakl Roman, Bc.
