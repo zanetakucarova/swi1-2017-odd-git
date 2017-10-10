@@ -55,7 +55,7 @@ Main goal is to add a new text file and make small change in README.md
 9.	Kaplanová Lucie, Bc.
 
 
-10.	Kubišta Jakub, Bc.
+10.	JakubKubista
 
 
 11.	Kučarová Žaneta, Bc.
