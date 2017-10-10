@@ -1,2 +1,2 @@
-git diff - porovná změny v souborech
-git status - zobrazí seznam souborů, které budou commitovány
+git diff - porovná změny v souborech.
+git status - zobrazí seznam souborů, které budou commitovány.
