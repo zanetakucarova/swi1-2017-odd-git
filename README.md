@@ -73,7 +73,7 @@ Main goal is to add a new text file and make small change in README.md
 15.	Osuský Peter, Bc.
 
 
-16.	Pinka Martin
+16.	crinos9
 
 
 17.	Poľakovský Michal, Bc.
