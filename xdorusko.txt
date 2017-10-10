@@ -1,0 +1,3 @@
+Hello, this is my first text file
+Git diff - show changes in file README.md. You can discard changes that you done.  
+Git status - show new file that hasnt been commited. 
