@@ -28,7 +28,7 @@ Main goal is to add a new text file and make small change in README.md
 
 
 
-1.	Bajtek Tomáš, Bc.
+1.	tombajtek
 
 
 2.	Beťko David, Bc.
