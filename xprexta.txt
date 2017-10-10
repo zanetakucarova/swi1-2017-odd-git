@@ -1,0 +1,5 @@
+some random line 
+
+
+git status - vypis vsetkych suborov. Modifikovane subory - tracked: README.md, nove subory - untracked: xprexta.txt
+git diff - vypise zmeny v suboroch. V README.md zmena riadku mena na github username
