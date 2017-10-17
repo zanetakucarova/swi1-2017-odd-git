@@ -1,0 +1,22 @@
+Vypisky
+-----------------
+
+
+https://github.com/RoadToSoftwareFactory/swi1-2017
+https://gitter.im/ManageIQ/welcome
+
+git (https://github.com/JakubKubista/swi1-2017-odd-git.git) - fork repozitare pri prihlaseni
+git clone https://github.com/JakubKubista/swi1-2017-odd-git.git
+git remote -v
+git remote add upstream https://github.com/RoadToSoftwareFactory/swi1-2017-odd-git.git
+git remote -v
+git fetch upstream
+git merge --ff-only upstream/master
+git push
+(login JakubKubista, heslo gitu)
+
+git checkout -b jakubs_branch //vytvoreni branche
+git checkout jakubs_branch //zmeny branche
+git push origin
+git branch //vypise vsech branches
+git add config.py
