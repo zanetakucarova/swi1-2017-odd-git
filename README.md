@@ -31,7 +31,7 @@ Main goal is to add a new text file and make small change in README.md
 1.	Bajtek Tomáš, Bc.
 
 
-2.	Beťko David, Bc.
+2.	davidbetko
 
 
 3.	xcocul00
