@@ -70,7 +70,7 @@ Main goal is to add a new text file and make small change in README.md
 14.	Neckař Dušan, Bc.
 
 
-15.	Osuský Peter, Bc.
+15.	peterosusky94@gmail.com
 
 
 16.	crinos9
