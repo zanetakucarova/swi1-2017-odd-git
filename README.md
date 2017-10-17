@@ -52,7 +52,7 @@ Main goal is to add a new text file and make small change in README.md
 8.	xjakl
 
 
-9.	Kaplanová Lucie, Bc.
+9.	lkaplanov
 
 
 10.	JakubKubista
