@@ -37,7 +37,7 @@ Main goal is to add a new text file and make small change in README.md
 3.	xcocul00
 
 
-4.	Dorušková Marie, Bc.
+4.	doruskova
 
 
 5.	Durák Martin
