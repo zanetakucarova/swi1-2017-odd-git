@@ -79,7 +79,7 @@ Main goal is to add a new text file and make small change in README.md
 17.	Poľakovský Michal, Bc.
 
 
-18.	Prexta Dávid, Bc.
+18.	DavidPrexta
 
 
 19.	webe745
