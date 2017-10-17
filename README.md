@@ -34,7 +34,7 @@ Main goal is to add a new text file and make small change in README.md
 2.	Beťko David, Bc.
 
 
-3.	Cocuľa Maroš
+3.	xcocul00
 
 
 4.	Dorušková Marie, Bc.
