@@ -49,7 +49,7 @@ Main goal is to add a new text file and make small change in README.md
 7.	Honek Tomáš, Bc.
 
 
-8.	Jakl Roman, Bc.
+8.	xjakl
 
 
 9.	Kaplanová Lucie, Bc.
