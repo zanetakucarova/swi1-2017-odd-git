@@ -1,0 +1,3 @@
+Hooray, it works :D
+git diff shows difference between original file and updated file
+git status shows which files were updated
