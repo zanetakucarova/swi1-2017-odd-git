@@ -1,0 +1,6 @@
+Hello :-)
+
+This is my text file!
+
+git diff - it show changes in file README.md
+git status - it show if file has been committed
