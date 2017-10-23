@@ -26,4 +26,10 @@ After you're done there..
 
 1. squash food-related commits into one
 
-1. 
+1. delete commit with your favorite color
+
+1. rename commit with your favorite season to something in UPERCASE
+
+1. edit commit with your favority city so it's Helsinki 
+
+1. when done mention one of instructors in a comment (if you are the first one and everything is done correctly you will get a GitHub code for free t-shirt via Gitter) 
