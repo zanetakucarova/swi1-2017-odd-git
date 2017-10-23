@@ -32,4 +32,10 @@ After you're done there..
 
 1. edit commit with your favority city so it's Helsinki 
 
-1. when done mention one of instructors in a comment (if you are the first one and everything is done correctly you will get a GitHub code for free t-shirt via Gitter) 
+1. when done mention one of instructors in a comment (if you are the first one to do everything correctly you will get a GitHub code for free t-shirt via Gitter)
+
+Everyone gets a sticker :octocat:
+
+---
+
+What to do when you mess up: http://ohshitgit.com/ 
