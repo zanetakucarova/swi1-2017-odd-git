@@ -6,16 +6,15 @@ Please DO NOT delete me (this line).
 Please change me. Ok as you wish :)
 
 
-
-Your favorite fruit: ..
+Your favorite fruit: mango mangoo
 
 Your favorite city: ...
 
-Your favorite vegetable: ...
+Your favorite vegetable: beetroot
 
 Your favorite color: ...
 
-Your favorite icecream: ...
+Your favorite icecream: caramel
 
 Your favorite season: ...
 
