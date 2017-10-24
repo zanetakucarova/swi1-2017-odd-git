@@ -8,7 +8,7 @@ Please change me. Ok as you wish :)
 
 Your favorite fruit: mango mangoo
 
-Your favorite city: ...
+Your favorite city: Helsinki
 
 Your favorite vegetable: beetroot
 
