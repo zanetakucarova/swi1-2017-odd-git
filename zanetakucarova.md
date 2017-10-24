@@ -16,7 +16,7 @@ Your favorite color: ...
 
 Your favorite icecream: caramel
 
-Your favorite season: ...
+Your favorite season: autumn
 
 
 (after this, please follow the instructions in README.md)
