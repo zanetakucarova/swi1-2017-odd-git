@@ -1,6 +1,6 @@
-Please delete me (this line).
+Please DO NOT delete me (this line).
 
-Please change me.
+Please change me somehow.
 
 
 Your favorite fruit: ...
